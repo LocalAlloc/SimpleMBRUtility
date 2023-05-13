@@ -1,6 +1,0 @@
-﻿  FixMBR.cpp
-D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(15,18): warning C4305: 'return': truncation from 'int' to 'bool'
-D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(33,18): warning C4305: 'return': truncation from 'int' to 'bool'
-D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(52,22): warning C4305: 'return': truncation from 'int' to 'bool'
-D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(38,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(85,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
