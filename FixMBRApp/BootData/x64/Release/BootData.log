@@ -1,0 +1,7 @@
+﻿  BootData.cpp
+  Generating code
+  2 of 8 functions (25.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BootData.vcxproj -> D:\source\repos\FixMBRApp\x64\Release\BootData.exe

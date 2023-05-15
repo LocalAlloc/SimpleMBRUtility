@@ -1,0 +1,12 @@
+﻿  FixMBR.cpp
+D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(111,18): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(130,22): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(407,34): warning C4244: 'argument': conversion from 'std::streamsize' to 'const unsigned int', possible loss of data
+  Generating code
+D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(1081): warning C4715: 'setTask64': not all control paths return a value
+D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(876): warning C4715: 'setTask': not all control paths return a value
+  5 of 201 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FixMBRApp.vcxproj -> D:\source\repos\FixMBRApp\Release\FixMBRApp.exe

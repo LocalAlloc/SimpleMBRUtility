@@ -1,0 +1,10 @@
+﻿  FixMBR.cpp
+D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(80,18): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.h(99,22): warning C4305: 'return': truncation from 'int' to 'bool'
+D:\source\repos\FixMBRApp\FixMBRApp\FixMBR.cpp(177,93): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating code
+  0 of 279 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FixMBRApp.vcxproj -> D:\source\repos\FixMBRApp\x64\Release\FixMBRApp.exe
